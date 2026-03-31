@@ -1,0 +1,7 @@
+// This file provides a reference for using Lucide icons in your project.
+// Example usage:
+// import { Play, Share2 } from "lucide-react";
+// <Play />
+// <Share2 />
+
+// For a full list of icons, see: https://lucide.dev/icons/
